@@ -6,7 +6,7 @@ Curso de Algoritmos y Programación II.
 
 Programa en Java que identifica el día de la semana a partir de un número ingresado por el usuario mediante teclado.
 
-El sistema utiliza estructuras condicionales (`if` y `else if`) para relacionar los números del 1 al 7 con los días correspondientes de la semana.
+El sistema utiliza estructuras condicionales (`switch`) para relacionar los números del 1 al 7 con los días correspondientes de la semana.
 
 Asignación:
 - 1 → Lunes
